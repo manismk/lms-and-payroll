@@ -1,0 +1,76 @@
+﻿* {
+    margin: 0 0 0 0px;
+}
+
+.header {
+    height: 80px;
+    width: 100%;
+    background-color: black;
+}
+h1 {
+    color:white;
+    text-align:center;
+    position:relative;
+    top:20px;
+    }
+body {
+    background-color: white;
+}
+.brmv {
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 1px solid darkgrey;
+}
+.ac {
+    margin-top:110px;
+    margin-left:280px;
+}
+.gv {
+    margin-left:400px;
+    margin-top: 45px;
+}
+
+.cent{
+    margin-left:210px;
+    margin-top:50px;
+}
+
+.fv1, FormView1{
+    margin-left:290px;
+}
+.mr {
+    margin-left:150px;
+
+}
+.pnl1, .pnl2, .pnl3 {
+    margin-left:210px;
+}
+
+.sdet {
+    text-align:center;
+}
+.mlft {
+    margin-left:40px;
+}
+.mlft1 {
+    margin-left:95px;
+}
+.farlft {
+    margin-left:140px;
+    margin-top:80px;
+}
+.npl {
+    margin-left:100px;
+}
+.nvru {
+    margin-left:360px;
+}
+.Pan2 {
+
+    margin-left:185px;
+}
+
+.Pan5 {
+    margin-left:180px;
+}

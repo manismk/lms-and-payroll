@@ -1,0 +1,47 @@
+﻿* {
+    margin:0;
+}
+.header {
+    height: 80px;
+    width: 100%;
+    background-color: black;
+    
+}
+h1 {
+    color: lightgreen;
+    margin-left: 370px;
+    position: relative;
+    top: 20px;
+    font-family: 'Aclonica';
+}
+.bgimg {
+    
+    background-image: url('../Images/backgroundimg.jpg');
+    background-repeat:no-repeat;
+    background-size:100%;
+}
+.red {
+    color:red;
+    
+}
+.card {
+    margin-left:570px;
+    margin-top:70px;
+}
+.content {
+    margin-left:40px;
+}
+.btnlft {
+    margin-left:41px;
+}
+.txtbr {
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom:1px solid darkgrey;
+}
+iframe {
+    margin-left: 300px;
+    margin-top:30px;
+    
+}
